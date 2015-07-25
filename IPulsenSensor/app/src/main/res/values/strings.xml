@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPulsenSensor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor_on">Ligar Sensor</string>
+    <string name="sensor_off">Desligar Sensor</string>
+    <string name="ligar_comunicacao">Ligar Comunicação</string>
+
+</resources>
